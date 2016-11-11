@@ -1,0 +1,26 @@
+#topNav div.navbar-header a.navbar-brand {
+  background-image: url(/oxford/images/orchard-jss-logo.png);
+  background-size: 90%;
+  margin-top: 0.5em;
+}
+
+div#login-wrapper div#login-panel div#login-icon {
+  background: url(/oxford/images/orchard-osx-jss-login.png) no-repeat;
+  background-size: 125px 125px;
+}
+
+#content-wrapper div#dashboard-header div#dashboard-meta {
+  display: none;
+}
+
+#content-wrapper h2, 
+#content-wrapper h3 {
+  font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+}
+
+body #login-wrapper,
+body #wrapper {
+  font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
